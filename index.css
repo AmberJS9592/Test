@@ -1,0 +1,41 @@
+ h1 {
+    color:  #ff6600;
+    margin-top: 75px;
+    text-align: center;
+}
+h2 {
+    color: #3a168e;
+    margin-top: 75px;
+    text-align: center;
+}
+h3 {
+    color: #00ff8c;
+    margin-top: 75px;
+    text-align: center;
+}
+h4 {
+    color: #ff00b3;
+    margin-top: 75px;
+    text-align: center;
+}
+h5 {
+    color: #364010;
+    margin-top: 75px;
+    text-align: center;
+}
+h6 {
+    color: #4d00ff;
+    margin-top: 75px;
+    text-align: center;
+}
+image {
+    margin-top: 75px;
+    background-color: #4d00ff;
+    color: white;
+    text-align: center;
+}
+img {
+    height: 500px;
+    width: 400px;
+
+}
